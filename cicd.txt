@@ -1,0 +1,26 @@
+CI is continuous integration and continuous delivery
+
+Build  ----> Deployment ----> Test ---> Release
+
+Jenkins pipeline
+Pipeline is a group of jobs in sequence
+
+
+
+How to set build pipeline in Jenkins
+Step1: Chain required jobs in sequence Add upstream/downstream jobs
+Step2: install Build Pipeline Plugin
+Step3: Add
+       Build Pipeline View
+       Configure the view Step
+Step4: Run and validate
+
+Pipeline block is a key part of declarative pipeline syntax
+Node block is a key of scripted pipeline syntax
+Stage 
+Steps
+
+
+Scripted pipeline
+Jenkinsfile (Scripted Pipeline)
+  
